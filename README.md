@@ -17,6 +17,9 @@ Levamos em consideração apenas os bairros de Campina Grande que é o foco do p
 
 
 # Agradecimentos 
-<a href=“https://github.com/arthuralv“>Flex Grid</a> Pelo auxilio com a produção do codigo e com o tratamento das bibliotecas. 
+[Arthur](https://github.com/arthuralv)Pelo grande auxilio com a produção do codigo e com o tratamento das bibliotecas. 
 E a todos os participantes do nosso projeto. 
+
+
+
 
