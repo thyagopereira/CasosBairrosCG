@@ -1,4 +1,8 @@
-# CasosBairrosPB
+![](Logo.jpg)
+
+
+
+# CasosBairrosCG
 
 Trata-se de uma base de dados para o projeto "Predição Georeferrenciada de surtos de Covid - 19 "
 A contagem dos dados foi feita de acordo com diversas metricas e o processo pode ser detalhado abaixo.
